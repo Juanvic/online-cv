@@ -42,16 +42,11 @@ sidebar:
         - idiom: Inglês
           level: Avançado
 
-        - idiom: 
-          level: 
 
     interests:
       title: Interesses
       info:
         - item: Ir ao cinema
-          link:
-
-        - item: Jogar videogame
           link:
 
         - item: Jogar RPG com os amigos
@@ -98,30 +93,19 @@ experiences:
           Além do meu trabalho como analista de sistemas, também exerci o
           cargo de testador de software utilizando ferramentas como JUnit
           para elaborar e executar casos de teste.
-            - Bullet point
-            - Bullet point
-      - role: 
-        time: 
-        company: 
+          
+      - role: Vice Presidente de Marketing
+        time: 2016 - 2017
+        company: MyProject Solutions
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: 
-        time: 
-        company: 
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Atuei como desenvolvedor e vice presidente de marketing durante 
+          o meu tempo de estudo na UNIFOR, a MyProject é uma empresa júnior
+          de computação da UNIFOR que surgiu como uma fábrica de software 
+          fundada em 2015 a partir da iniciativa de alguns alunos do curso 
+          de Análise e Desenvolvimento de Sistemas (ADS), que desde o primeiro 
+          momento, compartilharam a visão de uma “Fábrica de Software”, visando
+          o contato mais direto com esse mercado de trabalho.
+          
 
 certifications:
       title: Certifications
@@ -236,22 +220,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Documentação de Software
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 50%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: OBS Studio & GIMP
         level: 60%
 
 footer: >
