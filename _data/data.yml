@@ -32,6 +32,7 @@ sidebar:
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    bluesky: juanvic.bsky.social
 
     languages:
       title: Languages
@@ -92,7 +93,7 @@ certifications:
           start: 2021
           end: 2021
           organization: Udemy
-          credentialid: UC-0c88c8c7-e751-4f3f-b97f-705223d3ae92
+          credentialid: 
           credentialurl: https://www.udemy.com/certificate/UC-0c88c8c7-e751-4f3f-b97f-705223d3ae92/
           credentialname: elenium WebDriver with Java Course
           details: |
@@ -102,27 +103,27 @@ certifications:
           start: 2021
           end: 2021
           organization: Udemy
-          credentialid: UC-a86b87a0-e900-4f85-91f6-43e2fa005991
+          credentialid: 
           credentialurl: https://www.udemy.com/certificate/UC-a86b87a0-e900-4f85-91f6-43e2fa005991/
           credentialname: Selenium WebDriver
           details: |
             Conclui este curso de 17.5 horas sobre os fundamentos do Selenium WebDriver.
 
-          - name: Testes unitários em Java Domine JUnit, Mockito e TDD
+        - name: Testes unitários em Java Domine JUnit, Mockito e TDD
           start: 2021
           end: 2021
           organization: Udemy
-          credentialid: UC-2debdf72-a102-4815-b9a4-8f302f811f9c
+          credentialid: 
           credentialurl: https://www.udemy.com/certificate/UC-2debdf72-a102-4815-b9a4-8f302f811f9c/
           credentialname: Testes unitários em Java
           details: |
             Conclui este curso de 8 horas a respeito de Testes unitários principalmente com a ferramenta JUnit.
 
-          - name: Participação no evento Dev Summit III
+        - name: Participação no evento Dev Summit III
           start: 2021
           end: 2021
           organization: IGTI
-          credentialid: UC-a86b87a0-e900-4f85-91f6-43e2fa005991
+          credentialid: 
           credentialurl: https://drive.google.com/file/d/1oALJdk1VnPCYuFIl7YpquCSHC72ouFAy/view
           credentialname: Dev Summit III
           details: |
@@ -130,17 +131,17 @@ certifications:
             discutidos diversos tópicos interessantes sobre Front-end mobile, Full stack, Arquitetura
             e Gestão de TI.
 
-          - name: Angular 9
+        - name: Angular 9
           start: 2021
           end: 2021
           organization: Cod3r
-          credentialid: ot3gn4xq3s
+          credentialid: 
           credentialurl: https://www.cod3r.com.br/certificates/ot3gn4xq3s
           credentialname: Angular 9 Cod3r
           details: |
             Conclui o curso online essencial de Angular 9 em 13 horas.
 
-          - name: 2º MeetUp PyLadies Fortaleza 2018
+        - name: 2º MeetUp PyLadies Fortaleza 2018
           start: 2018
           end: 2018
           organization: Pyladies
@@ -152,7 +153,7 @@ certifications:
             diretamente das profissionais que dominam essa tecnologia, foi uma experiência enriquecedora
             que só acrescentou aos meus conhecimentos.
 
-          - name: PHPeste Edição de 2017
+        - name: PHPeste Edição de 2017
           start: 2017
           end: 2017
           organization: Unifor
@@ -166,11 +167,11 @@ certifications:
             de conhecer o criador do PHP em pessoa Rasmus Lerdorf, ouvir a sua palestra e seus conhecimentos foi
             o ponto alto do evento.
 
-          - name: Validação de conhecimento em inglês
+        - name: Validação de conhecimento em inglês
           start: 2017
           end: 2017
           organization: CIEE
-          credentialid: HA7940768222325273042687020170201004
+          credentialid: 
           credentialurl: https://drive.google.com/file/d/0B-rJjzx2GPOjakNoaDJPZG0tNXM/view?resourcekey=0-vG60nQoFgn7J6U0jSDJ7gg
           credentialname: Conhecimento em inglês
           details: |
@@ -189,6 +190,10 @@ projects:
       - title: Currículo Online
         link: "https://juanvic.github.io/online-cv"
         tagline: "Um site hospedado no github que tem a função de exibir meu currículo de uma forma mais acessível na internet"
+
+      - title: Cartão Pessoal
+        link: "https://juanvic.github.io/cover-card"
+        tagline: "Cartão hospedado no github semelhante ao linktree que contém todos os meus contatos."
 
 
 
