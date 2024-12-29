@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -43,14 +43,7 @@ sidebar:
           level: Avançado
 
 
-    interests:
-      title: Interesses
-      info:
-        - item: Ir ao cinema
-          link:
-
-        - item: Jogar RPG com os amigos
-          link:
+    
 
 career-profile:
     title: Perfil de carreira
@@ -64,24 +57,9 @@ education:
         university: UNIFOR - Universidade de Fortaleza
         time: 2015 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: 
-        university: 
-        time: 
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Conclui minha graduação na UNIFOR no semestre de 2018.1, vivenciei muitas
+          experiências que me marcaram e deram uma bagagem de conhecimento para os futuros
+          desafios da minha carreira.
 
 experiences:
     title: Experiências
@@ -90,7 +68,7 @@ experiences:
         time: 2021 - 2023
         company: Modelar Tecnologia, Fortaleza
         details: |
-          Além do meu trabalho como analista de sistemas, também exerci o
+          Além do meu trabalho como analista de sistemas pleno, também exerci o
           cargo de testador de software utilizando ferramentas como JUnit
           para elaborar e executar casos de teste.
           
@@ -108,120 +86,133 @@ experiences:
           
 
 certifications:
-      title: Certifications
+      title: Certificações
       list:
-        - name: CV Builder
-          start: 2020
+        - name: The Complete Selenium WebDriver with Java Course
+          start: 2021
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          organization: Udemy
+          credentialid: UC-0c88c8c7-e751-4f3f-b97f-705223d3ae92
+          credentialurl: https://www.udemy.com/certificate/UC-0c88c8c7-e751-4f3f-b97f-705223d3ae92/
+          credentialname: elenium WebDriver with Java Course
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Conclui este curso de 21.5 horas sobre o Selenium WebDriver com Java.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Selenium WebDriver - Do zero a criação de projetos
+          start: 2021
+          end: 2021
+          organization: Udemy
+          credentialid: UC-a86b87a0-e900-4f85-91f6-43e2fa005991
+          credentialurl: https://www.udemy.com/certificate/UC-a86b87a0-e900-4f85-91f6-43e2fa005991/
+          credentialname: Selenium WebDriver
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Conclui este curso de 17.5 horas sobre os fundamentos do Selenium WebDriver.
+
+          - name: Testes unitários em Java Domine JUnit, Mockito e TDD
+          start: 2021
+          end: 2021
+          organization: Udemy
+          credentialid: UC-2debdf72-a102-4815-b9a4-8f302f811f9c
+          credentialurl: https://www.udemy.com/certificate/UC-2debdf72-a102-4815-b9a4-8f302f811f9c/
+          credentialname: Testes unitários em Java
+          details: |
+            Conclui este curso de 8 horas a respeito de Testes unitários principalmente com a ferramenta JUnit.
+
+          - name: Participação no evento Dev Summit III
+          start: 2021
+          end: 2021
+          organization: IGTI
+          credentialid: UC-a86b87a0-e900-4f85-91f6-43e2fa005991
+          credentialurl: https://drive.google.com/file/d/1oALJdk1VnPCYuFIl7YpquCSHC72ouFAy/view
+          credentialname: Dev Summit III
+          details: |
+            Participei dessa experiência que contou com vários palestrantes capacitados nas quais foram
+            discutidos diversos tópicos interessantes sobre Front-end mobile, Full stack, Arquitetura
+            e Gestão de TI.
+
+          - name: Angular 9
+          start: 2021
+          end: 2021
+          organization: Cod3r
+          credentialid: ot3gn4xq3s
+          credentialurl: https://www.cod3r.com.br/certificates/ot3gn4xq3s
+          credentialname: Angular 9 Cod3r
+          details: |
+            Conclui o curso online essencial de Angular 9 em 13 horas.
+
+          - name: 2º MeetUp PyLadies Fortaleza 2018
+          start: 2018
+          end: 2018
+          organization: Pyladies
+          credentialid: 
+          credentialurl: https://drive.google.com/file/d/1adP41zAW1wseP2HxEQnPWIu1OUT5zLFi/view
+          credentialname: 2º Meetup Pyladies
+          details: |
+            Participei deste evento na qual tive a oportunidade de conhecer e aprender mais sobre Python
+            diretamente das profissionais que dominam essa tecnologia, foi uma experiência enriquecedora
+            que só acrescentou aos meus conhecimentos.
+
+          - name: PHPeste Edição de 2017
+          start: 2017
+          end: 2017
+          organization: Unifor
+          credentialid: 
+          credentialurl: https://www.sympla.com.br/baixar-certificado/GRfmVSxnnGbJ6M_Ljxp_14EL6aSBQ3V0QgEGjLbsOl4
+          credentialname: PHPeste 2017
+          details: |
+            Participei desse evento sediado na UNIFOR na qual participei com meus professores e colegas de turma
+            foi uma experiência bem agradável na qual pude interagir com diversos profissionais capacitados que
+            se especializaram em utilizar o PHP no seu cotidiano de trabalho, também tive a incrível oportunidade
+            de conhecer o criador do PHP em pessoa Rasmus Lerdorf, ouvir a sua palestra e seus conhecimentos foi
+            o ponto alto do evento.
+
+          - name: Validação de conhecimento em inglês
+          start: 2017
+          end: 2017
+          organization: CIEE
+          credentialid: HA7940768222325273042687020170201004
+          credentialurl: https://drive.google.com/file/d/0B-rJjzx2GPOjakNoaDJPZG0tNXM/view?resourcekey=0-vG60nQoFgn7J6U0jSDJ7gg
+          credentialname: Conhecimento em inglês
+          details: |
+            Certificado feito pelo CIEE que reconhece a minha habilidade refrente ao idioma Inglês.
 
 projects:
-    title: Projects
+    title: Projetos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Aqui vão exemplos de projetos os quais venho trabalhando
+      para solidificar meus conhecimentos e divulgar meu trabalho.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Blog Pessoal
+        link: "https://juanvic.github.io"
+        tagline: "Um blog profissional criado com o intuito de compartilhar ideias e conhecimentos da tecnologia."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Currículo Online
+        link: "https://juanvic.github.io/online-cv"
+        tagline: "Um site hospedado no github que tem a função de exibir meu currículo de uma forma mais acessível na internet"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades &amp; Proeficiência
 
     toolset:
-      - name: Documentação de Software
-        level: 90%
+      - name: Documentação de software
+        level: 100%
+
+      - name: Levantamento de requisitos
+        level: 100%
+
+      - name: Linux
+        level: 100%
+
+      - name: HTML5 & CSS
+        level: 100%
+
+      - name: SQL
+        level: 80%
+
+      - name: Testes de software
+        level: 70%
 
       - name: Javascript
         level: 50%
@@ -229,14 +220,8 @@ skills:
       - name: Angular
         level: 50%
 
-      - name: HTML5 & CSS
-        level: 98%
-
-      - name: SQL
-        level: 90%
-
       - name: OBS Studio & GIMP
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Layout desenvolvivo por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
