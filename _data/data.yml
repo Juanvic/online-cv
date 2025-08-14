@@ -28,11 +28,11 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon: https://mastodon.social/@juanvic # Please include your full Mastodon link here.
+    mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-    bluesky: juanvic.bsky.social
+    bluesky: # Bluesky profile
 
     languages:
       title: Languages
@@ -217,7 +217,7 @@ skills:
         level: 80%
 
       - name: Testes de software
-        level: 70%
+        level: 80%
 
       - name: Javascript
         level: 50%
