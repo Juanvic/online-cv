@@ -69,21 +69,29 @@ experiences:
         time: 2021 - 2023
         company: Modelar Tecnologia, Fortaleza
         details: |
-          Além do meu trabalho como analista de sistemas pleno, também exerci o
-          cargo de testador de software utilizando ferramentas como JUnit
-          para elaborar e executar casos de teste.
+          - Experiência no **levantamento e análise de requisitos**, com foco na compreensão das necessidades do cliente e na tradução dessas demandas em histórias de usuário bem definidas, seguindo metodologias ágeis.
+          - Atuação em design e prototipação de interfaces, com domínio de ferramentas como **Figma** e **Penpot**, facilitando a comunicação entre equipes técnicas e de produto.
+          - Vivência em testes de software, com foco na garantia da qualidade das entregas:
+          - Testes automatizados com **JUnit** e **TestNG**
+          - Testes de interface com **Selenium**
+          - **Testes manuais**, abrangendo cenários funcionais e não funcionais
+          - Familiaridade com clientes de simulação e consumo de apis, como o **Postman**, **Insomnia** e **Thunder Client**, demonstrando capacidade de adaptação e aplicação de conhecimento técnico em diferentes domínios.
+
           
-      - role: Vice Presidente de Marketing
+          
+      - role: Desenvolvedor e Vice Presidente de Marketing
         time: 2016 - 2017
         company: MyProject Solutions
         details: |
-          Atuei como desenvolvedor e vice presidente de marketing durante 
+          Atuei como **desenvolvedor** e vice presidente de marketing durante 
           o meu tempo de estudo na UNIFOR, a MyProject é uma empresa júnior
           de computação da UNIFOR que surgiu como uma fábrica de software 
           fundada em 2015 a partir da iniciativa de alguns alunos do curso 
-          de Análise e Desenvolvimento de Sistemas (ADS), que desde o primeiro 
-          momento, compartilharam a visão de uma “Fábrica de Software”, visando
-          o contato mais direto com esse mercado de trabalho.
+          de Análise e Desenvolvimento de Sistemas (ADS). Desde o início, 
+          esses alunos compartilharam a visão de criar uma “Fábrica de Software”,
+          com o objetivo de proporcionar uma experiência prática e aproximar os 
+          estudantes do mercado de trabalho na área de tecnologia.
+          
           
 
 certifications:
@@ -180,8 +188,7 @@ certifications:
 projects:
     title: Projetos
     intro: >
-      Aqui vão exemplos de projetos os quais venho trabalhando
-      para solidificar meus conhecimentos e divulgar meu trabalho.
+      Projetos pessoais para solidificar meus conhecimentos e divulgar meu trabalho: 
     assignments:
       - title: Blog Pessoal
         link: "https://juanvic.github.io"
