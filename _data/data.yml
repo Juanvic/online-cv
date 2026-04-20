@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -175,6 +175,16 @@ certifications:
             de conhecer o criador do PHP em pessoa Rasmus Lerdorf, ouvir a sua palestra e seus conhecimentos foi
             o ponto alto do evento.
 
+        - name: Certificado oficial Inglês EF SET 60/100 (B2 Independente)
+          start: 
+          end: 
+          organization: EF SET
+          credentialid: 
+          credentialurl: https://cert.efset.org/pt/5LRH5B
+          credentialname: Certificado inglês EF SET B2 Independente
+          details: |
+            Certificado fornecido pelo EF SET que classifica a minha habilidade sobre o idioma Inglês como B2 Independente com pontuação 60/100.
+
         - name: Validação de conhecimento em inglês
           start: 2017
           end: 2017
@@ -227,7 +237,7 @@ skills:
         level: 80%
 
       - name: Javascript
-        level: 50%
+        level: 70%
 
       - name: Angular
         level: 50%
