@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Juan Almeida
     tagline: Analista de Sistemas
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: juanvic.almeida@gmail.com
@@ -66,7 +66,7 @@ experiences:
     title: Experiências
     info:
       - role: Analista de Sistemas Pleno
-        time: 2021 - 2023
+        time: 2023
         company: Modelar Tecnologia, Fortaleza
         details: |
           - Experiência no **levantamento e análise de requisitos**, com foco na compreensão das necessidades do cliente e na tradução dessas demandas em histórias de usuário bem definidas, seguindo metodologias ágeis.
@@ -80,7 +80,7 @@ experiences:
           
           
       - role: Desenvolvedor e Vice Presidente de Marketing
-        time: 2016 - 2017
+        time: 2017
         company: MyProject Solutions
         details: |
           Atuei como **desenvolvedor** e vice presidente de marketing durante 
@@ -236,4 +236,4 @@ skills:
         level: 60%
 
 footer: >
-    Layout desenvolvivo por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Entre em contato <a href="malito@juanvic.almeida@gmail.com" target="_blank" rel="nofollow">comigo</a>
